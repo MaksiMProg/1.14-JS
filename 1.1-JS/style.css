@@ -1,0 +1,11 @@
+.block-for-mouse {
+    padding: 15px;
+    font-size: 14px;
+    width: 200px;
+    height: 200px;
+    background-color: #7a956b;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    text-align: center;
+}
